@@ -2,8 +2,6 @@ package com.mfcc.digi.data.model;
 
 import java.util.List;
 
-import com.mfcc.digi.data.model.Pokemon.Descriptions;
-import com.mfcc.digi.data.model.Pokemon.Language;
 
 import lombok.Builder;
 import lombok.Getter;

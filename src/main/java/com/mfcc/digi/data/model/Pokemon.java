@@ -29,26 +29,6 @@ public class Pokemon {
 
     @Setter
     @Getter
-    public static class Descriptions {
-        private List<Language> language;
-        private String flavor_text;
-        private List<Version> version;
-    }
-
-    @Setter
-    @Getter
-    public static class Language{
-        private String name;
-    }
-
-    @Setter
-    @Getter
-    public static class Version{
-        private String name;
-    }
-
-    @Setter
-    @Getter
     public static class Types {
         private int id;
         private String types;

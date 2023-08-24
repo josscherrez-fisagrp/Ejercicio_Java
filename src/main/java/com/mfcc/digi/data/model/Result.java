@@ -6,7 +6,6 @@ import lombok.Getter;
 
 import java.util.List;
 
-import com.mfcc.digi.data.model.Pokemon.Descriptions;
 
 @Builder
 @Getter
